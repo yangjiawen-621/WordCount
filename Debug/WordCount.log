@@ -1,0 +1,11 @@
+﻿  WordCount.c
+E:\c++代码\WordCount\WordCount\WordCount.c(10,13): warning C4013: “strcmp”未定义；假设外部返回 int
+E:\c++代码\WordCount\WordCount\WordCount.c(8,8): warning C4101: “name”: 未引用的局部变量
+E:\c++代码\WordCount\WordCount\WordCount.c(18,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c++代码\WordCount\WordCount\WordCount.c(33,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c++代码\WordCount\WordCount\WordCount.c(51,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c++代码\WordCount\WordCount\WordCount.c(14): warning C4715: “filename”: 不是所有的控件路径都返回值
+E:\c++代码\WordCount\WordCount\WordCount.c(30): warning C4700: 使用了未初始化的局部变量“number”
+E:\c++代码\WordCount\WordCount\WordCount.c(48): warning C4700: 使用了未初始化的局部变量“count”
+E:\c++代码\WordCount\WordCount\WordCount.c(52): warning C4700: 使用了未初始化的局部变量“number”
+  WordCount.vcxproj -> E:\c++代码\WordCount\Debug\WordCount.exe
